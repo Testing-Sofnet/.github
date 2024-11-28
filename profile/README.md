@@ -1,34 +1,38 @@
-# Bienvenidos a [Nombre de tu Comunidad] 👋
+<div align="center">
+  <img src="[URL-del-logo]" alt="Testing-Sofnet Logo" width="300"/>
+  
+  # Testing-Sofnet
+  
+  *Soluciones innovadoras para infraestructura y seguridad digital*
 
-## Sobre Nosotros 🚀
-[Breve descripción de tu comunidad y su propósito]
+  [![GitHub Org's stars](https://img.shields.io/github/stars/Testing-Sofnet?style=social)](https://github.com/Testing-Sofnet)
+  [![Discord](https://img.shields.io/badge/Discord-Únete_a_la_comunidad-7289DA?style=flat&logo=discord)](https://discord.gg/tucomunidad)
+</div>
 
-## Nuestra Misión 🎯
-[Describe los objetivos principales de tu comunidad]
+## 🚀 Sobre Nosotros
 
-## Cómo Participar 🤝
-- 💬 Únete a nuestras discusiones
-- 🌟 Contribuye a nuestros proyectos
-- 📢 Comparte tus ideas
+Testing-Sofnet es una comunidad dedicada al desarrollo de soluciones de software enfocadas en seguridad digital e infraestructura. Nos especializamos en crear herramientas que facilitan la gestión y monitoreo de sistemas.
 
-## Proyectos Destacados ⭐
-- [Proyecto 1](link) - Breve descripción
-- [Proyecto 2](link) - Breve descripción
+## 📌 Proyectos Principales
 
-## Recursos 📚
-- [Documentación](link)
-- [Guías](link)
-- [Canal de Discord](link)
+### Zentinelle
+[![GitHub stars](https://img.shields.io/github/stars/Testing-Sofnet/zentinelle?style=social)](https://github.com/Testing-Sofnet/zentinelle)
 
-## Contribuciones 🌱
-¡Nos encanta recibir contribuciones! Consulta nuestras [guías de contribución](link) para comenzar.
+Sistema de monitoreo y gestión de infraestructura. Diseñado para proporcionar:
+- 🔍 Monitoreo en tiempo real
+- 📊 Análisis de rendimiento
+- 🔔 Alertas personalizables
+- 📈 Reportes detallados
 
-## Contacto 📫
-- Twitter: [@tucomunidad](link)
-- Discord: [Servidor](link)
-- Email: contacto@tucomunidad.com
+### Download Certificados LetsEncrypt
+[![GitHub stars](https://img.shields.io/github/stars/Testing-Sofnet/download_certificados_LetsEncrypt?style=social)](https://github.com/Testing-Sofnet/download_certificados_LetsEncrypt)
 
----
-<p align="center">
-  <img src="URL-de-tu-logo" alt="Logo de la comunidad" width="200">
-</p>
+Herramienta automatizada para la gestión de certificados SSL/TLS:
+- 🔒 Automatización de renovación de certificados
+- 📥 Descarga segura de certificados
+- ⚡ Implementación simplificada
+- 🛡️ Gestión de seguridad mejorada
+
+## 💡 Contribuye
+
+Valoramos y fomentamos la colaboración de la comunidad. Puedes contribuir:
